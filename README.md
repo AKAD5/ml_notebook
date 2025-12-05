@@ -1,5 +1,4 @@
-# ml_notebook
-机器学习相关知识点
+
 <!-- PROJECT BANNER -->
 <p align="center">
   <img src="assets/banner.png" alt="Project Banner" width="80%">
